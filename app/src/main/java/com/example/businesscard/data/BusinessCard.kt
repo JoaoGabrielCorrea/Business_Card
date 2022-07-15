@@ -10,6 +10,6 @@ data class BusinessCard (
     val nome : String,
     val telefone : String,
     val email : String,
-    val emresa : String,
+    val empresa : String,
     val fundoPersonalizado : String
     )
